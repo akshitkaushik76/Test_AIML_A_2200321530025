@@ -1,6 +1,6 @@
 function validate(event) {
     
-    event.preventDefault();
+    
 
     
     const userId = document.getElementById("userId").value;
